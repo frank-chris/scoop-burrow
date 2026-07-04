@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/frank-chris/burrow/releases/download/v0.2.0/burrow_windows_amd64.zip",
+            "bin": [
+                "burrow.exe"
+            ],
+            "hash": "f15a707d9ade20d88f8ea0050eed30a68b9fda42e8c37829833c682fe2b6c30a"
+        }
+    },
+    "homepage": "https://github.com/frank-chris/burrow",
+    "license": "MIT",
+    "description": "Dev tunnel CLI wrapping Cloudflare Tunnel with team-friendly persistent URLs"
+}
