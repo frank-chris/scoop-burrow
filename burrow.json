@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/frank-chris/burrow/releases/download/v0.2.0/burrow_windows_amd64.zip",
+            "url": "https://github.com/frank-chris/burrow/releases/download/v0.2.1/burrow_windows_amd64.zip",
             "bin": [
                 "burrow.exe"
             ],
-            "hash": "f15a707d9ade20d88f8ea0050eed30a68b9fda42e8c37829833c682fe2b6c30a"
+            "hash": "53d538058b798d88b5b82e3eb1d316a4f8b516cce50d21fd38f29326ad7568f8"
         }
     },
     "homepage": "https://github.com/frank-chris/burrow",
